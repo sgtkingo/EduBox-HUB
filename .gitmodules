@@ -1,0 +1,20 @@
+[submodule "EduBox-HUB-Board"]
+	path = EduBox-HUB-Board
+	url = https://github.com/sgtkingo/EduBox-HUB-Board.git
+	branch = main
+[submodule "EduBox-HUB-App"]
+	path = EduBox-HUB-App
+	url = https://github.com/sgtkingo/EduBox-HUB-App.git
+	branch = main
+[submodule "EduBox-HUB-Panel"]
+	path = EduBox-HUB-Panel
+	url = https://github.com/sgtkingo/EduBox-HUB-Panel.git
+	branch = main
+[submodule "EduBox-HUB-Panel-Firmupdater"]
+	path = EduBox-HUB-Panel-Firmupdater
+	url = https://github.com/sgtkingo/EduBox-HUB-Panel-Firmupdater.git
+	branch = main
+[submodule "EduBox-HUB-VSCP"]
+	path = EduBox-HUB-VSCP
+	url = https://github.com/sgtkingo/EduBox-HUB-VSCP.git
+	branch = main

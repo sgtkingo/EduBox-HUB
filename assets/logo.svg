@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title description">
+  <title id="title">EduBox HUB</title>
+  <desc id="description">Od senzoru až po aplikaci</desc>
+  <style>
+    .brand-name { font: 700 92px 'TT Norms Pro', Arial, sans-serif; letter-spacing: -2px; }
+    .tagline { font: 400 35px 'TT Norms Pro', Arial, sans-serif; letter-spacing: .2px; fill: #055DA9; }
+    .blue-fill { fill: #055DA9; }
+    .orange-fill { fill: #EB6209; }
+    .connector { fill: none; stroke: #055DA9; stroke-width: 20; stroke-linecap: square; }
+  </style>
+
+  <g transform="translate(70 82)">
+    <path d="M78 0v34M78 122v34M0 78h34M122 78h34" class="connector"/>
+    <rect x="34" y="34" width="88" height="88" rx="18" class="blue-fill"/>
+    <rect x="58" y="58" width="40" height="40" rx="7" class="orange-fill"/>
+    <rect x="63" y="-12" width="30" height="24" rx="5" class="blue-fill"/>
+    <rect x="63" y="144" width="30" height="24" rx="5" class="blue-fill"/>
+    <rect x="-12" y="63" width="24" height="30" rx="5" class="blue-fill"/>
+    <rect x="144" y="63" width="24" height="30" rx="5" class="blue-fill"/>
+  </g>
+
+  <text x="300" y="157" class="brand-name"><tspan fill="#055DA9">EduBox</tspan><tspan dx="26" fill="#EB6209">HUB</tspan></text>
+  <text x="304" y="220" class="tagline">Od senzoru až po aplikaci</text>
+</svg>

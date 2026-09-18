@@ -1,5 +1,7 @@
 # EduBox HUB
 
+![Logo EduBox HUB](assets/logo.svg)
+
 **EduBox HUB** je hlavní vstupní bod a zastřešující repozitář ekosystému pro
 práci se senzory, aktuátory a virtuálními zařízeními. Zdrojové projekty jsou
 připojeny jako Git submoduly, takže tento repozitář uchovává jejich vzájemně
